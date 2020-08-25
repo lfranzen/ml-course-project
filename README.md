@@ -5,7 +5,7 @@ Repo for the 2020 Machine Learning in Medical Bioinformatics individual course p
 ## Description
 
 
-## Structure
+## Data
 
 
 ## The project
