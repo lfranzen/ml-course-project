@@ -1,4 +1,5 @@
 data/her2st_clone
+data/her2st/*.tsv
 data/her2st/go-sets
 data/her2st/ST-cnts
 data/her2st/ST-imgs
